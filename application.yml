@@ -1,2 +1,2 @@
-spring:
-  port: 3344
+config:
+  info: "123456"
